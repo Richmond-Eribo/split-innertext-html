@@ -1,0 +1,28 @@
+{
+  "name": "split-innertext-html",
+  "version": "1.0.0",
+  "description": "A class that splits the inner text of an Element into characters or words",
+  "main": ".dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richmond-Eribo/split-innertext-html.git"
+  },
+  "keywords": [
+    "split Inner Text",
+    "split String"
+  ],
+  "author": "Uyiosa Richmond Eribo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Richmond-Eribo/split-innertext-html/issues"
+  },
+  "homepage": "https://github.com/Richmond-Eribo/split-innertext-html#readme",
+  "devDependencies": {
+    "@types/node": "^22.8.1",
+    "typescript": "^5.6.3"
+  }
+}
