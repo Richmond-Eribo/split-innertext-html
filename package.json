@@ -1,6 +1,6 @@
 {
   "name": "split-innertext-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A class that splits the inner text of an Element into characters or words",
   "main": ".dist/index.js",
   "types": "./dist/index.d.ts",
