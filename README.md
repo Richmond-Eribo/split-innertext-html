@@ -1,7 +1,5 @@
 # split-innertext-html
 
-# split-inner-text
-
 A utility to split an HTML element’s text into individual words, characters, and
 spaces. Useful for animations and styling.
 
